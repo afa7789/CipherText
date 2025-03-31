@@ -13,3 +13,12 @@ and then you run ./output
 ## disclaimer
 
 keeping both versions of the codes for future reference :) 
+
+## examples:
+
+<img width="909" alt="image" src="https://github.com/user-attachments/assets/344d82b3-375d-47b9-b7c7-75ecce4c5b8a" />
+
+<img width="671" alt="image" src="https://github.com/user-attachments/assets/6cfac9a0-e46b-4dd3-b204-dc4c0c3aef5b" />
+
+![image](https://github.com/user-attachments/assets/121a88e0-eef5-4426-98dd-d160d32bf4e9)
+
